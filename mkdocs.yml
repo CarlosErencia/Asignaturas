@@ -1,0 +1,10 @@
+site_name: 2 DAW
+nav:
+    - Home: 'index.md'
+    - 'Asignaturas':
+        - 'M-02': 'BaseDatos.md'
+        - 'M-03': 'programacion.md'
+        - 'M-05': 'EntornDes.md'
+        - 'M-06': 'DesWebCli.md'
+        - 'DAW TUT': 'Tutoria.md'
+    - About: 'about.md'
